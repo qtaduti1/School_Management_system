@@ -1,6 +1,6 @@
 # Simple School Management System
 
-#### -By aditi Vyas (team member)
+#### -By Aditi Vyas (team member)
 
 #### Overview
 A basic school management system developed in C using the Raylib library. This project allows managing student information, including adding, updating, deleting, and displaying student records with a simple graphical interface.
@@ -17,7 +17,7 @@ C Compiler (e.g., GCC)
 Raylib (Install from Raylib Official Website)
 
 #### Clone the repository:
-git clone [This projects url]
+git clone https://github.com/qtaduti1/School_Management_system.git
 
 #### Usage
 Run the compiled executable:
@@ -25,7 +25,8 @@ Run the compiled executable:
 
 #### Project Structure
 main.c: The main program file containing logic for managing student records and the graphical interface.
-student.h: Header file defining student structures and functions.
+raylib.h
+iitp image
 
 #### Acknowledgments
 Raylib: For providing an easy-to-use library for creating the graphical interface.
