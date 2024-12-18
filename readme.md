@@ -17,7 +17,7 @@ C Compiler (e.g., GCC)
 Raylib (Install from Raylib Official Website)
 
 #### Clone the repository:
-git clone https://github.com/yourusername/school-management-system.git
+git clone [This projects url]
 
 #### Usage
 Run the compiled executable:
